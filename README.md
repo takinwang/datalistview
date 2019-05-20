@@ -1,1 +1,1 @@
-# a jquery data listview
+# A jquery listview framework
