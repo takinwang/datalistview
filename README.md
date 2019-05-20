@@ -1,2 +1,2 @@
 # datalistview
-a jquery listview framework
+A jquery listview framework
