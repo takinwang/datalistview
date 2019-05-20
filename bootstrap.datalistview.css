@@ -1,0 +1,43 @@
+﻿@charset "utf-8";
+
+.dlv-row .dlv-cell {
+	padding: 8px;
+	line-height: 1.42857143;
+	border: 1px solid #ddd;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.dlv-header .dlv-cell {
+	padding: 8px;
+	line-height: 1.42857143;
+	border: 1px solid #ddd;
+}
+
+.dlv-body {
+	border-spacing: 0;
+	border-collapse: collapse;
+	border: 1px solid #ddd;
+	border-spacing: 2px;
+	background-color: transparent;
+}
+
+.dlv table {
+	font-size: 14px;
+}
+
+.dlv-header td {
+	font-size: 14px;
+}
+
+.dlv-body td {
+	font-size: 14px;
+}
+
+.dlv-pager {
+	margin: 0px;
+}
+
+.pagination-info {
+	font-size: 14px;
+}
